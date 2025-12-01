@@ -17,13 +17,13 @@ When given a search topic, the agent:
 
 4. Generates a complete PDF report that includes:
 
-Key findings
+5. Key findings
 
-Sources (when available)
+6. Sources (when available)
 
-Time-stamped sections
+7. Time-stamped sections
 
-Summaries and structured breakdowns
+8. Summaries and structured breakdowns
 
 # Tech Stack
 
@@ -41,3 +41,8 @@ Summaries and structured breakdowns
 
 The project was built primarily for personal learning, and has proven extremely effective for deep research across different subjects.
 It has been used efficiently and effectively to handle complex search topics and produce easy-to-read summaries that save time and improve understanding.
+
+👨🏾‍💻 Author
+John Babalola
+Computer Vision | Robotics | Agentic AI | Embedded System
+
